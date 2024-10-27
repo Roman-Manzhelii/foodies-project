@@ -63,7 +63,7 @@ Follow these steps to set up the project locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Roman-Manzhelii/foodies-project
+git clone https://github.com/Roman-Manzhelii/foodies-project.git
 cd foodies-project
 ```
 
